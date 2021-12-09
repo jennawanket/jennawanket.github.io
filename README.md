@@ -20,22 +20,3 @@ Once I’ve completed each of these steps and the visitor count is effectively s
 I downloaded the HTML/CSS template from a public website and had an example of what the end product would look like available. This became my new “index.html” file that I would use for my domain. Moving forward, I compared the placement of the variables with the HTML code, altering them to fit my liking. This process took upwards of two hours because I would get caught in minuscule details about coloring and font sizing. I then was able to edit the beginning code so that the file would reference the visitor counter API and the proper CSS file “resume.css”. After the version was to my liking, I imported the “index.html” file into the S3 bucket domain. 
 
 Once this process was complete, the website functioned as it did in the previous version that wasn’t accessible through the cloud domain. In the end, I’m very satisfied with the product of my cloud resume. I learned greatly about HTML and CSS coding, and the perseverance that comes with developing any new skill. Moving forward, I am extremely interested in persuing a career in cloud computing and expanding my knowledge as much as possible!
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
