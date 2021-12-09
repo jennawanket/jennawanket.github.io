@@ -1,6 +1,7 @@
 ## Welcome to Jenna Wanket's Cloud Resume Challenge Blog Post!
 
 [My Cloud Resume](https://jennawanket.com)
+
 [My LinkedIn](https://www.linkedin.com/in/jenna-wanket/)
 
 When I first read about the Cloud Resume Challenge, I was fully engulfed with feelings of anxiety and doubt. All of the different skills needed to complete this task appeared to be foreign in my eyes, even though I had experience with each of them individually. I decided to settle my nerves and take it one step at a time. Luckily, we were able to address concerns in class and start together. I first deployed my personal chosen domain to an S3 Bucket in AWS. I had navigated AWS before this course, however, my knowledge was very minimal. S3 allowed me to safely store my main domain and the “www.jennawanket.com” domain in container buckets. My S3 domain needed to use HTTPS rather than HTTP because it adds another level of security to the main domain. This also provided easy access to the stored files and data. Moreover, I had to register my “jennawanket.com” domain in Route 53 to ensure it’s properly connected to a DNS server. 
